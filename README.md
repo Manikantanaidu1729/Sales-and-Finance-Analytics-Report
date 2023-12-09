@@ -4,7 +4,7 @@
 
 1.Customer Performance Assessment: Developed an in-depth [report](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/Customer%20Performance%20Report.pdf) for evaluating customer performance.
 
-2.Market Performance Comparison: Conducted a comprehensive analysis to compare [market performance](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf)  with sales targets.
+2.Market Performance Comparison: Conducted a comprehensive analysis to compare [market performance](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/Market%20Performance%20vs%20Target%20Report.pdf)  with sales targets.
 
 3.Sales Analytics Purpose: Empowered businesses with the capability to monitor, assess, and improve their sales activities and outcomes.
 
@@ -15,9 +15,9 @@ Role of Reports: Determining effective customer discounts, facilitating negotiat
 # Finance Report:
 **Project Objectives:**
 
-1.Profit and Loss (P&L) Reports: Created [P&L reports by fiscal years](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf)
+1.Profit and Loss (P&L) Reports: Created [P&L reports by fiscal years](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [P&L reports by fiscal months](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/P%26L%20Statement%20by%20Months.pdf)
 
-2.P&L Reports by Markets: Generated P&L reports categorized by different [markets.](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/P%26L%20Statement%20By%20Markets.pdf) 
+2.P&L Reports by Markets: Generated P&L reports categorized by different [markets.](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/P%26L%20Statement%20by%20Markets.pdf) 
 
 3.Finance Analytics Purpose: Evaluated financial performance, supported decision-making processes, and enhanced stakeholder communication.
 
