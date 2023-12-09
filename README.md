@@ -49,4 +49,4 @@ Role of Reports: Aligning financial planning with strategic objectives and insti
 
 4.Developing a systematic approach to creating report-building plans.
 
-You can find the detailed project reports [here](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report) 📊📈📂
+You can find the detailed project reports [here](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/tree/main/Sales-and-Finance-Analytics-Report) 📊📈📂
