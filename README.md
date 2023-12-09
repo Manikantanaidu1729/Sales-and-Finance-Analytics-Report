@@ -2,7 +2,7 @@
 # Sales Report:
 **Project Objectives:**
 
-1.Customer Performance Assessment: Developed an in-depth [report](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) for evaluating customer performance.
+1.Customer Performance Assessment: Developed an in-depth [report](https://github.com/Manikantanaidu1729/Sales-and-Finance-Analytics-Report/blob/main/Sales-and-Finance-Analytics-Report/Customer%20Performance%20Report.pdf) for evaluating customer performance.
 
 2.Market Performance Comparison: Conducted a comprehensive analysis to compare [market performance](https://github.com/Deepshikhagithub/Sales-and-Finance-Analytics-Report/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf)  with sales targets.
 
